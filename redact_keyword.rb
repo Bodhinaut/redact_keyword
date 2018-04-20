@@ -34,3 +34,4 @@ search_redact("Hello we want Kyle out")
 
 #current issues stands, needs to erase only if those STRING of characters are 
 # together and not just anywehre in the document 
+# idea to use 'Windowing conept'
